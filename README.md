@@ -1,2 +1,2 @@
-# PowerBI-Project
-This repository is the last part of the TechMart project, focussed on in the last two repositories, and aims to deal with the data visualization using Microsoft Power BI.
+# Power BI Project
+This repository is the last part of the TechMart project, focussed on in the last two repositories, and aims to deal with the data visualization using Microsoft Power BI. In the first repository [SQL](https://github.com/yosefemshani/SQL-Capstone-Project) was used for data analysis. Secondly, we used [Excel & Tableau](https://github.com/yosefemshani/Tableau-Excel-SQL-Project) for data cleaning, analysis and visualization.
